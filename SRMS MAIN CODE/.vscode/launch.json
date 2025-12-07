@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/CCC",
-      "program": "d:/CCC/build/Debug/outDebug",
+      "cwd": "d:/CCC/SRMS MAIN CODE",
+      "program": "d:/CCC/SRMS MAIN CODE/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
